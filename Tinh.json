@@ -1,0 +1,255 @@
+[
+
+  {
+    "MaTinh": "01",
+    "TenTinh": "Thành phố Hà Nội"
+  },
+  {
+    "MaTinh": "02",
+    "TenTinh": "Tỉnh Hà Giang"
+  },
+  {
+    "MaTinh": "04",
+    "TenTinh": "Tỉnh Cao Bằng"
+  },
+  {
+    "MaTinh": "06",
+    "TenTinh": "Tỉnh Bắc Kạn"
+  },
+  {
+    "MaTinh": "08",
+    "TenTinh": "Tỉnh Tuyên Quang"
+  },
+  {
+    "MaTinh": "10",
+    "TenTinh": "Tỉnh Lào Cai"
+  },
+  {
+    "MaTinh": "11",
+    "TenTinh": "Tỉnh Điện Biên"
+  },
+  {
+    "MaTinh": "12",
+    "TenTinh": "Tỉnh Lai Châu"
+  },
+  {
+    "MaTinh": "14",
+    "TenTinh": "Tỉnh Sơn La"
+  },
+  {
+    "MaTinh": "15",
+    "TenTinh": "Tỉnh Yên Bái"
+  },
+  {
+    "MaTinh": "17",
+    "TenTinh": "Tỉnh Hoà Bình"
+  },
+  {
+    "MaTinh": "19",
+    "TenTinh": "Tỉnh Thái Nguyên"
+  },
+  {
+    "MaTinh": "20",
+    "TenTinh": "Tỉnh Lạng Sơn"
+  },
+  {
+    "MaTinh": "22",
+    "TenTinh": "Tỉnh Quảng Ninh"
+  },
+  {
+    "MaTinh": "24",
+    "TenTinh": "Tỉnh Bắc Giang"
+  },
+  {
+    "MaTinh": "25",
+    "TenTinh": "Tỉnh Phú Thọ"
+  },
+  {
+    "MaTinh": "26",
+    "TenTinh": "Tỉnh Vĩnh Phúc"
+  },
+  {
+    "MaTinh": "27",
+    "TenTinh": "Tỉnh Bắc Ninh"
+  },
+  {
+    "MaTinh": "30",
+    "TenTinh": "Tỉnh Hải Dương"
+  },
+  {
+    "MaTinh": "31",
+    "TenTinh": "Thành phố Hải Phòng"
+  },
+  {
+    "MaTinh": "33",
+    "TenTinh": "Tỉnh Hưng Yên"
+  },
+  {
+    "MaTinh": "34",
+    "TenTinh": "Tỉnh Thái Bình"
+  },
+  {
+    "MaTinh": "35",
+    "TenTinh": "Tỉnh Hà Nam"
+  },
+  {
+    "MaTinh": "36",
+    "TenTinh": "Tỉnh Nam Định"
+  },
+  {
+    "MaTinh": "37",
+    "TenTinh": "Tỉnh Ninh Bình"
+  },
+  {
+    "MaTinh": "38",
+    "TenTinh": "Tỉnh Thanh Hóa"
+  },
+  {
+    "MaTinh": "40",
+    "TenTinh": "Tỉnh Nghệ An"
+  },
+  {
+    "MaTinh": "42",
+    "TenTinh": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "MaTinh": "44",
+    "TenTinh": "Tỉnh Quảng Bình"
+  },
+  {
+    "MaTinh": "45",
+    "TenTinh": "Tỉnh Quảng Trị"
+  },
+  {
+    "MaTinh": "46",
+    "TenTinh": "Tỉnh Thừa Thiên Huế"
+  },
+  {
+    "MaTinh": "48",
+    "TenTinh": "Thành phố Đà Nẵng"
+  },
+  {
+    "MaTinh": "49",
+    "TenTinh": "Tỉnh Quảng Nam"
+  },
+  {
+    "MaTinh": "51",
+    "TenTinh": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "MaTinh": "52",
+    "TenTinh": "Tỉnh Bình Định"
+  },
+  {
+    "MaTinh": "54",
+    "TenTinh": "Tỉnh Phú Yên"
+  },
+  {
+    "MaTinh": "56",
+    "TenTinh": "Tỉnh Khánh Hòa"
+  },
+  {
+    "MaTinh": "58",
+    "TenTinh": "Tỉnh Ninh Thuận"
+  },
+  {
+    "MaTinh": "60",
+    "TenTinh": "Tỉnh Bình Thuận"
+  },
+  {
+    "MaTinh": "62",
+    "TenTinh": "Tỉnh Kon Tum"
+  },
+  {
+    "MaTinh": "64",
+    "TenTinh": "Tỉnh Gia Lai"
+  },
+  {
+    "MaTinh": "66",
+    "TenTinh": "Tỉnh Đắk Lắk"
+  },
+  {
+    "MaTinh": "67",
+    "TenTinh": "Tỉnh Đắk Nông"
+  },
+  {
+    "MaTinh": "68",
+    "TenTinh": "Tỉnh Lâm Đồng"
+  },
+  {
+    "MaTinh": "70",
+    "TenTinh": "Tỉnh Bình Phước"
+  },
+  {
+    "MaTinh": "72",
+    "TenTinh": "Tỉnh Tây Ninh"
+  },
+  {
+    "MaTinh": "74",
+    "TenTinh": "Tỉnh Bình Dương"
+  },
+  {
+    "MaTinh": "75",
+    "TenTinh": "Tỉnh Đồng Nai"
+  },
+  {
+    "MaTinh": "77",
+    "TenTinh": "Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  {
+    "MaTinh": "79",
+    "TenTinh": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "MaTinh": "80",
+    "TenTinh": "Tỉnh Long An"
+  },
+  {
+    "MaTinh": "82",
+    "TenTinh": "Tỉnh Tiền Giang"
+  },
+  {
+    "MaTinh": "83",
+    "TenTinh": "Tỉnh Bến Tre"
+  },
+  {
+    "MaTinh": "84",
+    "TenTinh": "Tỉnh Trà Vinh"
+  },
+  {
+    "MaTinh": "86",
+    "TenTinh": "Tỉnh Vĩnh Long"
+  },
+  {
+    "MaTinh": "87",
+    "TenTinh": "Tỉnh Đồng Tháp"
+  },
+  {
+    "MaTinh": "89",
+    "TenTinh": "Tỉnh An Giang"
+  },
+  {
+    "MaTinh": "91",
+    "TenTinh": "Tỉnh Kiên Giang"
+  },
+  {
+    "MaTinh": "92",
+    "TenTinh": "Thành phố Cần Thơ"
+  },
+  {
+    "MaTinh": "93",
+    "TenTinh": "Tỉnh Hậu Giang"
+  },
+  {
+    "MaTinh": "94",
+    "TenTinh": "Tỉnh Sóc Trăng"
+  },
+  {
+    "MaTinh": "95",
+    "TenTinh": "Tỉnh Bạc Liêu"
+  },
+  {
+    "MaTinh": "96",
+    "TenTinh": "Tỉnh Cà Mau"
+  }
+]
